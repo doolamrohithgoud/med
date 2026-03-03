@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+health_vectordb/
+.venv/
+venv/
+env/
+.idea/
+.vscode/

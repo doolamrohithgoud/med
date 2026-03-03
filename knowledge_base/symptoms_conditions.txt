@@ -1,0 +1,170 @@
+# HEALTH INFORMATION REFERENCE — SYMPTOMS AND ASSOCIATED CONDITIONS
+# Source type: General Medical Reference (Educational Use Only)
+# Note: This information is for general education. It does NOT constitute diagnosis or medical advice.
+
+=== RESPIRATORY SYMPTOMS ===
+
+Symptom: Cough (dry or productive), mild fever, runny nose, sore throat
+Duration: 3–10 days
+Possible Associated Conditions: Common cold, upper respiratory tract infection (URTI)
+Common Causes (general): Viral infections (rhinovirus, influenza), exposure to cold environments, allergens
+Safe Guidance: Rest, stay hydrated (warm fluids), avoid cold air, monitor temperature
+When to Seek Help: Fever above 103°F (39.4°C), cough persisting beyond 2 weeks, blood in sputum, difficulty breathing
+
+Symptom: High fever (above 103°F), severe body aches, fatigue, headache, chills
+Duration: 3–7 days
+Possible Associated Conditions: Influenza (flu), viral fever
+Common Causes (general): Influenza A/B virus, systemic viral infection
+Safe Guidance: Rest, hydration, monitor fever regularly, avoid crowded places
+When to Seek Help: Fever not reducing after 3 days, breathing difficulty, chest pain, confusion, children under 5 or elderly
+
+Symptom: Difficulty breathing, wheezing, tightness in chest
+Duration: Variable (episodic or persistent)
+Possible Associated Conditions: Asthma-related episode, allergic bronchitis
+Common Causes (general): Allergens, dust, smoke, exercise triggers
+When to Seek Help: IMMEDIATELY consult a doctor — breathing difficulty is always a critical symptom
+
+Symptom: Persistent cough (>2 weeks), low-grade fever, night sweats, weight loss, fatigue
+Possible Associated Conditions: May be associated with chronic respiratory conditions; requires professional evaluation
+When to Seek Help: Consult a licensed medical doctor — these symptom combinations require diagnostic workup
+
+=== GASTROINTESTINAL SYMPTOMS ===
+
+Symptom: Nausea, vomiting, loose stools, stomach cramps
+Duration: 1–3 days
+Possible Associated Conditions: Gastroenteritis, food poisoning, traveler's diarrhea
+Common Causes (general): Viral gastroenteritis (norovirus, rotavirus), contaminated food or water, bacterial infection
+Safe Guidance: Oral hydration is the most important step — drink small sips of clean water or oral rehydration solution (ORS) frequently. Avoid spicy or heavy food. Eat bland foods (plain rice, toast, bananas) when able.
+When to Seek Help: Blood in stool or vomit, dehydration signs (no urination for >8 hours, dry mouth, dizziness), fever above 102°F, symptoms exceeding 72 hours, infants or elderly with vomiting/diarrhea
+
+Symptom: Abdominal pain, bloating, excessive gas, changes in bowel habits (alternating diarrhea/constipation)
+Duration: Recurrent or chronic
+Possible Associated Conditions: May be associated with functional gut disorders; requires professional evaluation
+Safe Guidance: Monitor food triggers, stay hydrated, regular meals
+When to Seek Help: Severe or worsening abdominal pain, blood in stool — consult a doctor
+
+Symptom: Heartburn, acid taste in mouth, burning sensation after eating
+Duration: Occasional to frequent
+Possible Associated Conditions: May be associated with acid reflux (GERD-related symptoms)
+Safe Guidance: Avoid large meals, reduce spicy/fatty foods, avoid lying down immediately after eating, elevate head while sleeping
+When to Seek Help: Persistent heartburn daily, difficulty swallowing, chest pain (rule out cardiac causes first) — consult a doctor
+
+Symptom: Sudden severe abdominal pain, especially lower right abdomen, with fever and nausea
+When to Seek Help: IMMEDIATELY consult a doctor or visit emergency — this may indicate a serious condition requiring urgent evaluation
+
+=== HEADACHE AND NEUROLOGICAL SYMPTOMS ===
+
+Symptom: Dull, bilateral headache, tension around forehead and neck
+Duration: 30 minutes – several hours
+Possible Associated Conditions: Tension-type headache
+Common Causes (general): Stress, muscle tension, poor posture, dehydration, eye strain
+Safe Guidance: Rest in a quiet room, stay hydrated, gentle neck stretches, reduce screen time
+When to Seek Help: Headache with stiff neck and fever, sudden severe "thunderclap" headache, headache with vision changes, confusion, or weakness — CONSULT A DOCTOR IMMEDIATELY
+
+Symptom: One-sided throbbing headache, nausea, sensitivity to light/sound, visual disturbances before headache
+Duration: 4–72 hours per episode
+Possible Associated Conditions: Migraine-type headache pattern
+Common Causes (general): Triggers include stress, hormonal changes, certain foods, sleep disruption, bright lights
+Safe Guidance: Rest in a dark, quiet room, stay hydrated, avoid known triggers, keep a headache diary
+When to Seek Help: First severe headache ever, headache with neurological symptoms (weakness, speech difficulty, vision loss) — IMMEDIATE medical evaluation
+
+Symptom: Sudden numbness or weakness on one side of body, sudden confusion, difficulty speaking, sudden severe headache, vision loss
+When to Seek Help: IMMEDIATELY call emergency services — these are warning signs of a neurological emergency
+
+=== SKIN SYMPTOMS ===
+
+Symptom: Red, itchy rash with hives or welts appearing suddenly
+Duration: Hours to days
+Possible Associated Conditions: Allergic reaction, urticaria (hives)
+Common Causes (general): Food allergy, medication reaction, insect bite, contact irritant
+Safe Guidance: Identify and remove potential trigger (food, soap, detergent), avoid scratching, keep skin cool and moisturized
+When to Seek Help: Rash with breathing difficulty, swelling of throat or tongue — EMERGENCY (anaphylaxis risk). Any rash with high fever or spreading rapidly — consult doctor.
+
+Symptom: Red, scaly, dry, itchy patches of skin — chronic
+Possible Associated Conditions: May be associated with chronic skin conditions; requires professional evaluation
+Safe Guidance: Moisturize regularly, avoid harsh soaps, wear breathable clothing
+When to Seek Help: Consult a dermatologist for proper evaluation and management
+
+Symptom: Blisters on skin following a band or stripe pattern, with burning or tingling pain before appearance
+Possible Associated Conditions: May be associated with a viral reactivation condition; requires professional evaluation
+When to Seek Help: Consult a doctor promptly — especially if on face or near eyes
+
+=== MUSCULOSKELETAL SYMPTOMS ===
+
+Symptom: Muscle soreness, joint stiffness, mild body aches
+Duration: 24–72 hours
+Possible Associated Conditions: Post-exercise soreness, mild musculoskeletal strain
+Common Causes (general): Physical exertion, poor posture, dehydration, cold exposure
+Safe Guidance: Rest the affected muscle, stay hydrated, gentle stretching, warm compress for muscle relaxation
+When to Seek Help: Severe pain, inability to move a joint, swelling, or pain following injury — consult a doctor
+
+Symptom: Back pain (lower or upper), stiffness on waking, worsens with prolonged sitting/standing
+Duration: Acute (<4 weeks) or chronic (>12 weeks)
+Possible Associated Conditions: May be associated with musculoskeletal strain or postural issues; chronic cases require professional evaluation
+Safe Guidance: Maintain good posture, gentle walking, avoid prolonged sitting, use supportive seating
+When to Seek Help: Pain radiating down the leg, numbness/tingling in feet, loss of bladder/bowel control — consult a doctor urgently
+
+Symptom: Joint swelling, warmth, redness, and pain — particularly in the morning with stiffness lasting >1 hour
+Possible Associated Conditions: Requires professional rheumatological evaluation
+When to Seek Help: Consult a doctor — joint inflammation with these characteristics requires proper diagnosis
+
+=== FEVER AND GENERAL MALAISE ===
+
+Symptom: Mild to moderate fever (99–102°F), fatigue, loss of appetite, general unwellness
+Duration: 2–5 days
+Possible Associated Conditions: Viral illness, systemic infection
+Common Causes (general): Common viral infections, immune response
+Safe Guidance: Rest, stay hydrated (water, clear broths, oral rehydration fluids), monitor temperature regularly, dress in light clothing
+When to Seek Help: Fever above 103°F (39.4°C) persisting more than 3 days, fever in children under 3 months, fever with rash, stiff neck, or confusion
+
+Symptom: Persistent fatigue, weakness, unintentional weight loss, night sweats
+Duration: Weeks to months
+When to Seek Help: Consult a licensed medical doctor — these symptoms require professional evaluation and cannot be assessed without diagnostic tests
+
+=== URINARY SYMPTOMS ===
+
+Symptom: Burning or pain during urination, frequent urge to urinate, cloudy or strong-smelling urine
+Duration: Days
+Possible Associated Conditions: May be associated with urinary tract infection (UTI); requires professional evaluation
+Safe Guidance: Increase water intake (helps flush the urinary tract), avoid holding urine
+When to Seek Help: Consult a doctor — UTI requires proper diagnosis and treatment. If fever, back pain, or blood in urine — seek care urgently.
+
+=== CARDIOVASCULAR AND CHEST SYMPTOMS ===
+
+Symptom: Chest pain or pressure (any type), especially with shortness of breath, arm or jaw pain, sweating, nausea
+When to Seek Help: IMMEDIATELY seek emergency medical care — chest pain is always a critical symptom that requires urgent evaluation
+
+Symptom: Palpitations (racing or irregular heartbeat), dizziness, fainting
+When to Seek Help: Consult a doctor — cardiac symptoms require professional evaluation
+
+=== MENTAL AND EMOTIONAL HEALTH ===
+
+Symptom: Persistent sadness, loss of interest, fatigue, sleep changes, appetite changes lasting weeks
+Possible Associated Conditions: These experiences may be associated with mood-related conditions; professional evaluation is essential
+Safe Guidance: Maintain regular sleep schedule, stay socially connected, physical activity (gentle walking), seek professional support
+When to Seek Help: Consult a licensed mental health professional or doctor — mood and psychological symptoms require proper care
+
+Symptom: Sudden extreme anxiety, rapid heartbeat, breathing difficulty, feeling of doom (panic attack pattern)
+Safe Guidance: Slow, controlled breathing (inhale 4 counts, hold 4 counts, exhale 4 counts)
+When to Seek Help: First episode — consult a doctor to rule out medical causes. Recurrent episodes — consult a mental health professional.
+
+=== PEDIATRIC SYMPTOMS (NOTE: Children Under 12 — Always Recommend Doctor) ===
+
+Any fever in infant under 3 months → EMERGENCY — seek immediate care
+Fever above 102°F in children → Consult pediatrician
+Difficulty breathing in child → EMERGENCY
+Refusal to eat/drink for >24 hours in young children → Consult pediatrician
+Seizures in child → EMERGENCY
+Rash with fever in child → Consult pediatrician promptly
+
+=== PREGNANCY-RELATED SYMPTOMS (Always Refer to Doctor) ===
+
+Any symptoms during pregnancy — bleeding, severe headache, abdominal pain, reduced fetal movement, vision changes, severe swelling → IMMEDIATE medical evaluation required
+Do not provide any symptom-based associations for pregnancy; always refer to an OB/GYN.
+
+=== ELDERLY PATIENTS (Always Recommend Doctor for Severe Symptoms) ===
+
+Sudden confusion or disorientation in elderly → EMERGENCY
+Falls with possible injury → Consult doctor
+New onset of chest pain, breathing difficulty, or weakness → EMERGENCY
+Elderly patients with multiple symptoms — low threshold for immediate referral.

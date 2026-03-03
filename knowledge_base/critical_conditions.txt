@@ -1,0 +1,171 @@
+# HEALTH INFORMATION REFERENCE — CRITICAL CONDITIONS AND EMERGENCY WARNINGS
+# For identification of EMERGENCY situations requiring IMMEDIATE professional care.
+# When ANY of these conditions are identified:
+# → "This situation may be serious. Please consult a licensed medical doctor or
+#    visit a healthcare facility immediately."
+
+=== CARDIAC EMERGENCIES ===
+
+Warning signs of Heart Attack:
+- Chest pain or pressure (squeezing, tightness, fullness)
+- Pain radiating to arm, jaw, neck, or back
+- Shortness of breath
+- Cold sweat, nausea, lightheadedness
+- Sudden fatigue (especially in women)
+Action: CALL EMERGENCY IMMEDIATELY — time is critical.
+
+Warning signs of Stroke (FAST):
+F — Face drooping (one side)
+A — Arm weakness (one arm drifts down)
+S — Speech difficulty (slurred or strange)
+T — Time — call emergency for ANY of the above
+Additional: Sudden vision loss, severe headache, sudden loss of balance
+Action: CALL EMERGENCY — stroke is time-sensitive.
+
+=== SEVERE RESPIRATORY EMERGENCIES ===
+
+Respiratory Failure / Severe Breathing Difficulty:
+- Extreme shortness of breath at rest
+- Blue-tinged lips or fingertips (cyanosis)
+- Unable to speak a full sentence without stopping
+- Rapid, labored breathing with visible muscle effort
+Action: CALL EMERGENCY
+
+Anaphylaxis (Severe Allergic Reaction):
+- Throat or tongue swelling, difficulty swallowing or speaking
+- Difficulty breathing, wheezing
+- Racing or weak pulse
+- Widespread hives with any systemic symptom
+Action: CALL EMERGENCY IMMEDIATELY
+
+Severe Asthma Attack:
+- Extreme wheezing not responding to reliever inhaler
+- Lips or fingertips turning blue
+- Unable to speak more than a few words
+Action: CALL EMERGENCY
+
+=== NEUROLOGICAL EMERGENCIES ===
+
+Thunderclap Headache:
+- Sudden, worst-ever headache peaking within seconds to 60 seconds
+- May indicate brain bleed
+Action: CALL EMERGENCY or go to ER immediately
+
+Meningitis Warning Signs:
+- Severe headache + high fever + stiff neck (cannot bend chin to chest)
+- Sensitivity to light, non-blanching rash (does not fade with glass press)
+Action: CALL EMERGENCY
+
+Seizures:
+- Unresponsive convulsions; first episode; prolonged (>5 min); not recovering
+Action: Do not restrain; protect from injury; CALL EMERGENCY if criteria above
+
+Sudden Neurological Deficits (stroke warning):
+- Sudden numbness or weakness in face, arm, or leg (one-sided)
+- Sudden loss of vision, speech difficulty, severe imbalance
+Action: CALL EMERGENCY
+
+=== SEVERE BLEEDING AND TRAUMA ===
+
+Uncontrolled Bleeding:
+- Bleeding not stopping after 10–15 minutes of direct pressure
+- Arterial bleeding (bright red, pulsating)
+Action: Apply firm pressure — CALL EMERGENCY
+
+Internal Bleeding Signs:
+- Vomiting blood; black/tarry stools; coughing up blood
+- Abdominal pain with rigidity after trauma
+Action: CALL EMERGENCY
+
+Severe Head Injury:
+- Loss of consciousness, confusion, or amnesia after head trauma
+Action: Do NOT move unless dangerous — CALL EMERGENCY
+
+=== SEPSIS AND SEVERE INFECTIONS ===
+
+Sepsis Warning Signs:
+- High fever or very low temperature + rapid breathing + rapid heart rate
+- Extreme confusion, slurred speech
+- Limbs appearing mottled or discolored
+- No urination despite fluid intake
+- Rapidly worsening known infection
+Action: CALL EMERGENCY — sepsis is life-threatening
+
+=== ABDOMINAL EMERGENCIES ===
+
+Appendicitis Signs:
+- Pain starting near navel, shifting to lower right abdomen
+- Pain worsening over hours; fever; nausea
+Action: SEEK EMERGENCY CARE immediately
+
+Bowel Obstruction:
+- Severe cramping; inability to pass gas or have bowel movements; distended abdomen
+Action: CALL EMERGENCY
+
+Ectopic Pregnancy Rupture:
+- Severe lower abdominal pain in reproductive-age woman; possible pregnancy; with dizziness or bleeding
+Action: CALL EMERGENCY — life-threatening
+
+=== DIABETIC EMERGENCIES ===
+
+Hypoglycemia (Very Low Blood Sugar):
+- Shakiness, sweating, confusion, rapid heart rate, possible loss of consciousness
+- If conscious: give fast-acting sugar; if unconscious: CALL EMERGENCY
+
+Diabetic Ketoacidosis (DKA):
+- Extreme thirst, very frequent urination, fruity breath, confusion, rapid breathing
+Action: CALL EMERGENCY
+
+=== PREGNANCY EMERGENCIES ===
+
+ANY of the following during pregnancy → IMMEDIATE medical evaluation:
+- Vaginal bleeding at any stage
+- Severe abdominal or pelvic pain
+- Sudden swelling of face/hands/feet + headache + visual changes
+- Decreased or absent fetal movement (after 28 weeks)
+- Signs of preterm labor before 37 weeks
+- High fever, fainting
+Action: Go to nearest maternity unit or CALL EMERGENCY
+Note: No symptom associations will be provided for pregnant users — ALWAYS refer to doctor.
+
+=== PEDIATRIC EMERGENCIES ===
+
+- Infant under 3 months with any fever → EMERGENCY
+- Child with difficulty breathing or blue lips → EMERGENCY
+- Child having first seizure or seizure lasting >5 min → EMERGENCY
+- Severe dehydration in child (no urination, sunken eyes, very drowsy) → EMERGENCY
+- Non-blanching rash + fever in child → EMERGENCY
+- Child who ingested medication or chemical → CALL POISON CONTROL + EMERGENCY
+
+=== PSYCHIATRIC EMERGENCIES ===
+
+Suicidal Ideation or Self-Harm:
+- Any expressed intent to harm oneself; specific plan; previous attempt
+Action: MEDICAL EMERGENCY — contact emergency services or crisis helpline immediately.
+
+=== POISONING AND OVERDOSE ===
+
+- Suspected overdose or chemical ingestion
+- Child who accessed medicines or chemicals
+Action: CALL POISON CONTROL + EMERGENCY. Do NOT induce vomiting unless instructed.
+
+=== HIGH FEVER CRITICAL THRESHOLDS ===
+
+High Fever (>39.4°C / 103°F) combined with ANY:
+- Stiff neck → EMERGENCY (meningitis)
+- Confusion or altered mental status → EMERGENCY
+- Petechial (non-blanching) rash → EMERGENCY
+- Difficulty breathing → EMERGENCY
+
+High fever persisting >3 days in adults / >24 hours in children under 2 → Consult doctor
+
+=== CRITICAL TRIGGER KEYWORD SUMMARY ===
+
+Immediate emergency referral is triggered by:
+chest pain, difficulty breathing, stroke symptoms, thunderclap headache,
+uncontrolled bleeding, vomiting blood, blood in stool, loss of consciousness,
+seizure, anaphylaxis, throat swelling, severe abdominal pain (sudden/worsening),
+high fever + stiff neck, fever + rash + confusion, suicide, self-harm,
+pregnancy + bleeding, child with breathing difficulty, overdose, poisoning
+
+DEFAULT RULE: When in doubt → REFER TO DOCTOR OR EMERGENCY SERVICES IMMEDIATELY.
