@@ -25,7 +25,7 @@ INDEX_FILE = INDEX_DIR / "faiss.index"
 DOCS_FILE = INDEX_DIR / "documents.pkl"
 
 EMBED_MODEL = "gemini-embedding-001"
-LLM_MODEL = "gemini-3-flash-preview"
+LLM_MODEL = "gemini-2.0-flash"
 EMBED_BATCH = 50
 CHUNK_SIZE = 600
 CHUNK_OVERLAP = 80
